@@ -1,4 +1,8 @@
-## Hi there 👋
+# Welcome to the Expanse Development Organisation
+
+This organisations purpose is to provide development work to the Sigma Draconis Expanse Server. This work will be owned by all contributing members with automatic allowances given to the Sigma Draconis Organisation to use the software contained herein for free.
+
+
 
 <!--
 
